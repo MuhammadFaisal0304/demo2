@@ -1,11 +1,20 @@
 <<<<<<< HEAD
+ Updated upstream
+=======
+<<<<<<< HEAD
 efsfds
 
+>>>>>>> origin/master
 
 efsfds
 k;jk
 
 
+<<<<<<< HEAD
+efsfds
+k;jk
+ Stashed changes
+=======
 
 
 
@@ -14,3 +23,4 @@ hghjghjg
 
 
 
+origin/master
